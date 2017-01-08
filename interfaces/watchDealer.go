@@ -1,0 +1,3 @@
+interface WatchDealer struct{
+    deal()
+}
